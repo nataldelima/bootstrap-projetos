@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Custom style para painel*/
+#header {
+    background-color: rgba(40, 30, 20, 0.4);
+}
